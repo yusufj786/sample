@@ -1,6 +1,6 @@
 #1.python program to find the power of a number in a list using recursion
 n=int(input("enter base number"))
-a=int(input("enter power value"))
+a=int(input("enter value of power"))
 b=n**a
 print("the power of entered number is",b)
 
