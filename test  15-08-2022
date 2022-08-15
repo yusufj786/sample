@@ -1,7 +1,8 @@
 #1.python program to find the power of a number in a list using recursion
-n=int(input("enter any number"))
-b=n**2
-print("the power of ",n," is",b)
+n=int(input("enter base number"))
+a=int(input("enter power value"))
+b=n**a
+print("the power of entered number is",b)
 
 #2.how to print multiple arguments in python and call a function to display the arguments
 def its(name, num):
